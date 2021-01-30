@@ -2,8 +2,9 @@
 
 I help teams build editors and serverless applications.
 
-Book a [30m chat](https://calendly.com/jkrsp/first-chat) and let's have a chat.
+[Book a chat](https://calendly.com/jkrsp/first-chat) if you'd like to talk about a project.
 
-[Check out my website](http://jkrsp.com/) or find me on [me on twitter](https://twitter.com/home)
+- [http://jkrsp.com](http://jkrsp.com/)
+- [@juliandoesstuff](https://twitter.com/home).
 
 Let's build some great software!
