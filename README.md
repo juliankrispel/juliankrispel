@@ -1,6 +1,6 @@
 # 👋 I'm Julian
 
-I help teams build editors and serverless applications.
+I help teams build text-driven interfaces and serverless applications.
 
 [Book a chat](https://calendly.com/jkrsp/first-chat) if you'd like to talk about a project.
 
