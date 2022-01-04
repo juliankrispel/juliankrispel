@@ -1,4 +1,4 @@
-# �I'm Julian
+# I'm Julian
 
 I build text based interfaces
 
