@@ -1,9 +1,6 @@
-# 👋 I'm Julian
+# �I'm Julian
 
 I build text based interfaces
-Builder and consultant
-Curious about decentralized systems
-Enquiries Right pointing backhand index http://calendly.com/jkrsp/office
 
 [Book a chat](https://calendly.com/jkrsp/office) if you'd like to talk about a project.
 
